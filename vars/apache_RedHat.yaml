@@ -1,0 +1,5 @@
+---
+php_lib: php
+apache_srv: httpd
+project_dir: /ansible_project/dev_proje/
+dest_dir: /var/www/html/
